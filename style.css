@@ -1,0 +1,9 @@
+table {
+    background-color: pink;
+}
+
+table th, table td {
+    background-color: pink;
+    border: solid 1px #aaa;
+    padding:15px;
+}
